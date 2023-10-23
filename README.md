@@ -17,8 +17,9 @@ Linux için:</br>
 cd kodluyoruzilkrepo
 code .
 
-<p><b>Contributing</b></p>
 </br>
+<p><b>Contributing</b></p>
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 <p><b>License</b></p>
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
